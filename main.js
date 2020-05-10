@@ -2,7 +2,7 @@
 const options = {
   url: 'https://dev83560.service-now.com',
   username: 'admin',
-  password: 'p72IzSFOOocyrd'
+  password: 'p72IzSFOOocy'
 };
 
 
